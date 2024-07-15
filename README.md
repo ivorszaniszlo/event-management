@@ -12,7 +12,7 @@
 
 ## General info
 
-Book Review application built with Laravel 10, providing a RESTFul API to seed and manage event management for [Master Laravel for Beginners & Intermediate 2024 Udemy Course](https://www.udemy.com/course/laravel-beginner-fundamentals/learn/lecture/38206874#learning-tools).
+Event Management application built with Laravel 10, providing a RESTFul API to seed and manage events for [Master Laravel for Beginners & Intermediate 2024 Udemy Course](https://www.udemy.com/course/laravel-beginner-fundamentals/learn/lecture/38206874#learning-tools).
 
 ## Description
 
